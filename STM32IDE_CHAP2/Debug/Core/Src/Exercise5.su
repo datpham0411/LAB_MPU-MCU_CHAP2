@@ -1,0 +1,3 @@
+Exercise5.c:8:6:Exercise5_Init	4	static
+Exercise5.c:14:6:Exercise5_Implement	56	static
+Exercise5.c:35:6:updateClockBuffer	24	static

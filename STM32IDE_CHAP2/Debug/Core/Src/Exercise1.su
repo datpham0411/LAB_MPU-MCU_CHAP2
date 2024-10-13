@@ -1,0 +1,6 @@
+Exercise1.c:9:6:SevenSEG_Reset	8	static
+Exercise1.c:19:6:SevenSEG_Init	8	static
+Exercise1.c:29:6:display1	8	static
+Exercise1.c:37:6:Exercise1_Init	8	static
+Exercise1.c:41:6:display7SEG	16	static
+Exercise1.c:82:6:Exercise1_Implement	8	static

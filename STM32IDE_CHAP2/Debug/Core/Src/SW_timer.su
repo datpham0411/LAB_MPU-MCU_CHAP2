@@ -1,0 +1,5 @@
+SW_timer.c:19:6:setTimer0	16	static
+SW_timer.c:24:6:setTimer1	16	static
+SW_timer.c:29:6:setTimer2	16	static
+SW_timer.c:34:6:timerRun	4	static
+SW_timer.c:62:6:update7SEG	24	static
